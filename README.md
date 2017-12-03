@@ -21,7 +21,7 @@ In this scenario,
    * pom.xml
    
    ```
-  <dependency>
+        <dependency>
 			<groupId>net.sf.ehcache</groupId>
 			<artifactId>ehcache</artifactId>
 		</dependency>
@@ -63,4 +63,4 @@ In this scenario,
 
 ![springboot-ehcache-actuator](springboot-ehcache-actuator.png)
 
-###Happy Coding
+### Happy Coding
