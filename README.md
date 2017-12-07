@@ -8,7 +8,7 @@ By using Ehcache in springboot, you can avoid to hit database multiple times to 
 
 It will increase the performance to avoid hitting database multiple times.
 
-In this scenario,
+In this scenario.,
 
     * The application retreived booking details information from the mysql.
     * When we hit the service operation to fetch the records for the first time it will go to dao layer and fetch the records.
