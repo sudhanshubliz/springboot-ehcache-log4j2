@@ -50,9 +50,5 @@ By using Ehcache in springboot, you can avoid to hit database multiple times to 
 ```
 ### Reference Link
 [Spring book Cache](https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-caching.html)
-
-### Screenshot
-
-![springboot-ehcache-actuator](springboot-ehcache-actuator.png)
-
+https://www.foreach.be/blog/spring-cache-annotations-some-tips-tricks
 ### Happy Coding
