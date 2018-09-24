@@ -1,18 +1,10 @@
-# springboot-ehcache-example
+# POC on Spring Boot with ehcache
 
 This project demonstrates how to implement Ehcahe in Springboot application.
 
 In this example,
 
 By using Ehcache in springboot, you can avoid to hit database multiple times to fetch records.
-
-It will increase the performance to avoid hitting database multiple times.
-
-In this scenario.,
-
-    * The application retreived booking details information from the mysql.
-    * When we hit the service operation to fetch the records for the first time it will go to dao layer and fetch the records.
-    * If we hit the same operations for the next time, it will not go to dao layer and fetch the records instead it will use the Ehcache for that.
     
 # Keypoints to remember
 
